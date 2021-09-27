@@ -2,7 +2,6 @@
 _Senior Math-Computer Science major at University of California, San Diego._
 
 **Table of contents**
-- [Caitlin Lee](#caitlin-lee)
   - [Who I am as a person](#who-i-am-as-a-person)
   - [Who I am as a programmer](#who-i-am-as-a-programmer)
 
